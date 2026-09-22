@@ -1,1 +1,1 @@
-ALU SHELL BASICS REPOSITORY
+ALU Shell Repository
